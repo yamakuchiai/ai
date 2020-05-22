@@ -1,13 +1,14 @@
+package src.gitHub_try;
 /**
  * 
  */
-package gitHub_try;
+//package gitHub_try;
 
 /**
  * @author yamaguchiai
  *
  */
-public class Ai_gitHub_try {
+public class AiGitHub {
 
 	/**
 	 * @param args
@@ -17,6 +18,7 @@ public class Ai_gitHub_try {
 		System.out.println("Hello World!");
 		System.out.println("私の好きな食べ物はたらこパスタです。");
 		System.out.println("理由はおいしいからです。");
+		System.out.println("また、オクラも好きです。");
 	}
 
 }
